@@ -1,0 +1,11 @@
+main.aux
+main.log
+main.out
+main.toc
+main.synctex.gz
+main.fdb_latexmk
+main.fls
+main.xdv
+
+fonts/local/*
+!fonts/local/.gitkeep
